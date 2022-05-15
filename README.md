@@ -1,3 +1,13 @@
+### Intro
+Basic Survey app
+* Create survey with questions
+* Support three types of question
+  * Just Text Response
+  * MCQ with one selection only
+  * MCQ with mutliple selection
+* above three can be used to cover other question types if needed
+* Another User can take these survey and attempt all the questions
+
 ### Run Test
 ```bash
 pytest test
