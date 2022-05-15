@@ -1,1 +1,1 @@
-__all__ = ['survey_controller']
+__all__ = ['survey_controller', 'generic_controller']
