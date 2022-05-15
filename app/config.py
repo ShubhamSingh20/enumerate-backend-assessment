@@ -9,7 +9,7 @@ DEBUG = True
 SECRET_KEY = ']3QHOWLFH/LEFiwcEf+f^!M=T;]4[Ibh`X5?&v_7_JI103Ifi/A&C~_Cix>O5xc'
 
 # Connect to the database
-SQLALCHEMY_DATABASE_URI = 'sqlite:///' + os.path.join(basedir, 'database.db')
+SQLALCHEMY_DATABASE_URI = 'postgresql://kwuaupvv:x9JfeZCSox46Do-iLuNzsDyCuKazUCRN@tiny.db.elephantsql.com/kwuaupvv'
 
 SQLALCHEMY_TRACK_MODIFICATIONS = True
 
