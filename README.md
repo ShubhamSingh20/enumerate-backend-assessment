@@ -1,3 +1,8 @@
+### Run Test
+```bash
+pytest test
+```
+
 ### Create survey
 
 ```python
